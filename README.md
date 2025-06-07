@@ -13,7 +13,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente cursando o técnico em Desenvolvimento de Sistemas na ETE FMC  
-- 💻 Utilizo **C**, **C++** e **C#** no desenvolvimento de projetos  
 - 🧠 Aprendendo continuamente sobre:
   - Linguagens de Programação
   - Sistemas Embarcados
