@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Vilas Boas</h1>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="100px" align="right"/>
+<img src="https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif" height="100px" align="right"/>
 
 <p align="center">
   <i>Estudante da ETE FMC | 3º ano do Ensino Médio com Técnico em Desenvolvimento de Sistemas</i>  
